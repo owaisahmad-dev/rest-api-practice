@@ -1,0 +1,23 @@
+{
+  "name": "rest-api-practice",
+  "version": "1.0.0",
+  "description": "My first express app, but with improved git practices...",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.18.1",
+    "body-parser": "^1.20.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owaisahmad-dev/rest-api-practice.git"
+  },
+  "author": "Owais Ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/owaisahmad-dev/rest-api-practice/issues"
+  },
+  "homepage": "https://github.com/owaisahmad-dev/rest-api-practice#readme"
+}
